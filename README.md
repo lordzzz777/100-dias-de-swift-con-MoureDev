@@ -1,3 +1,5 @@
+![Cover100:Dias D](https://github.com/lordzzz777/100-dias-de-swift-con-MoureDev/assets/114311106/8b65980a-d02b-4bfe-85a5-0ae1191a5a53)
+
 # Bienvenidos a los 100 días de Swift con MoureDev! 👋
 
 Ayer propusimos una emocionante actividad para toda la comunidad interesada en aprender Swift desde cero, aprovechando todos los recursos que nos ofrece MoureDev hasta la fecha.
