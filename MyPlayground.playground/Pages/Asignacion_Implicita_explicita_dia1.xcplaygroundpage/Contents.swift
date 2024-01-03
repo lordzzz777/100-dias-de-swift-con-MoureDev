@@ -21,7 +21,7 @@ import Foundation
 
 // Flotantes
 
-    var y = 18,8
+var y = 18.8
 
 
 // ----- Definición Asignación Explícita: ------
@@ -30,7 +30,7 @@ import Foundation
 // En una asignación explícita,
 // se declara el tipo de datos de la variable o constante...
 // y se asigna un valor compatible con ese tipo explícitamente.
-//Por ejemplo:
+// Por ejemplo:
 
 // Enteros
 
@@ -38,7 +38,7 @@ var x2:Int = 18
 
 // Flotantes
 
-var y2:Bundle = 18,8
+var y2:Double = 18.8
 
 // La asignación explícita brinda claridad...
 // sobre el tipo de datos que se espera utilizar y puede...

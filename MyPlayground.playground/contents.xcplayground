@@ -5,5 +5,9 @@
         <page name='DeclaracionesMultiples_dia1'/>
         <page name='TiposDeDatos_dia1'/>
         <page name='Asignacion_Implicita_explicita_dia1'/>
+        <page name='Caracteres_Cadenas_dia2'/>
+        <page name='CheracterUnicodeEmojis_dia2'/>
+        <page name='ConcadenacionInterpolacion_dia2'/>
+        <page name='ComparacionOtrasOperaciones_dia2'/>
     </pages>
 </playground>
