@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='Contante_variables_dia1'/>
-        <page name='DeclaracionesMultiples_dia1'/>
-        <page name='TiposDeDatos_dia1'/>
-        <page name='Asignacion_Implicita_explicita_dia1'/>
-        <page name='Caracteres_Cadenas_dia2'/>
-        <page name='CheracterUnicodeEmojis_dia2'/>
-        <page name='ConcadenacionInterpolacion_dia2'/>
-        <page name='ComparacionOtrasOperaciones_dia2'/>
-        <page name='BoleanosValores logicos_ dia3'/>
-        <page name='Coloeciones_dia3'/>
-        <page name='Tuplas_dia3'/>
-        <page name='Enumeraciones_dia3'/>
-        <page name='OperadorRango_ dia3'/>
-        <page name='EstructuraControl_dia3'/>
-        <page name='BuclesOCiclos_dia3'/>
-        <page name='Funciones_dia4'/>
+        <page name='Dia1_Asignacion_Implicita_explicita'/>
+        <page name='Dia1_TiposDeDatos'/>
+        <page name='Dia1_Contante_variables'/>
+        <page name='Dia2_Declaraciones_Multiples'/>
+        <page name='Dia2_Caracteres_Cadenas'/>
+        <page name='Dia2_Cheracter_UnicodeEmojis'/>
+        <page name='Dia2_Concadenacion_Interpolacion'/>
+        <page name='Dia2_Comparacion_Otras_Operaciones'/>
+        <page name='Dia3_Boleanos_Valores_logicos'/>
+        <page name='Dia3_Coloeciones'/>
+        <page name='Dia3_Tuplas'/>
+        <page name='Dia3_Enumeraciones'/>
+        <page name='Dia3_Operador_Rango'/>
+        <page name='Dia3_Estructura_Control'/>
+        <page name='Dia3_Bucles_o_Ciclos'/>
+        <page name='Dia4_Funciones'/>
+        <page name='Dia5_Intrucduccion_POO'/>
+        <page name='Dia5_Estructuras'/>
+        <page name='Dia5_Clases_Instacias_Uso_de_Objetos'/>
+        <page name='Dia5_Estructuras_Vs_Clases'/>
     </pages>
 </playground>
