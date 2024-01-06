@@ -9,5 +9,13 @@
         <page name='CheracterUnicodeEmojis_dia2'/>
         <page name='ConcadenacionInterpolacion_dia2'/>
         <page name='ComparacionOtrasOperaciones_dia2'/>
+        <page name='BoleanosValores logicos_ dia3'/>
+        <page name='Coloeciones_dia3'/>
+        <page name='Tuplas_dia3'/>
+        <page name='Enumeraciones_dia3'/>
+        <page name='OperadorRango_ dia3'/>
+        <page name='EstructuraControl_dia3'/>
+        <page name='BuclesOCiclos_dia3'/>
+        <page name='Funciones_dia4'/>
     </pages>
 </playground>
