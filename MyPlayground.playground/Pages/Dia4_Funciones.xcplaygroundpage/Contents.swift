@@ -145,8 +145,4 @@ miPrimerClosure(100,22,88)
 
 // Selo podemos pasar como argumento de otra funcion
 // com por ejemplo:
-<<<<<<< Updated upstream
 print(miPrimerClosure) // A la funcion print le estamos pasando como argumento el closure
-=======
-print(miPrimerClosure) // A la funcion print le estamos pasando como argumento el closure
->>>>>>> Stashed changes
