@@ -22,5 +22,9 @@
         <page name='Dia5_Clases_Instacias_Uso_de_Objetos'/>
         <page name='Dia5_Estructuras_Vs_Clases'/>
         <page name='Dia6_Swift_Avanzado_Optinal'/>
+        <page name='Dia7_Type_Casting'/>
+        <page name='Dia7_Tipos_Anidados'/>
+        <page name='Dia7_Extensiones_Protocolos'/>
+        <page name='Dia7_Teoria_Swift_ Avanzadas'/>
     </pages>
 </playground>

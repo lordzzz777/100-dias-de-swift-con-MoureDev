@@ -41,7 +41,7 @@ let myWrongIntNumber = Int(myWrongStringNumber)
 
 // ejemplo
 var myOptionalString: String?
-print(myIntNumber)
+print(myIntNumber ?? "")
 
 if myOptionalString != nil {
     print("Esta variable no es nula")
@@ -76,7 +76,7 @@ if let myString = myOptionalString {
     print(myString)
     
 }else{
-    print(myOptionalString)
+    print(myOptionalString ?? "")
 }
 
 // vemos como se jecuta el print dentro del else, dado que el valor es nulo
@@ -90,7 +90,7 @@ if let myString = myOptionalString {
     print(myString)
     
 }else{
-    print(myOptionalString)
+    print(myOptionalString ?? "")
 }
 // esta manera nos aseguramos que myString no tiene un valor no nulo
 // para evaluar mas una variable opcinal
@@ -138,8 +138,8 @@ class Book{
 let myStudent = Student()
 let myBook = Book()
 
-print(myStudent.name)
-print(myStudent.book?.pages)
+print(myStudent.name ?? "")
+print(myStudent.book?.pages ?? Int())
 
 // utilizar los enlaces opcionales, en cadena
 // se aria de la misma forma que si estuvieramos...
@@ -230,3 +230,4 @@ do{
 }catch SumError.numberNegative(let firstNumber, let secondNumber){
     print("Hay algunos numeros negativos, firstNumber: \(firstNumber), secondNamber: \(secondNumber)")
 }
+
