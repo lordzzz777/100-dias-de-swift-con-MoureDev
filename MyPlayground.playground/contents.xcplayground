@@ -26,5 +26,10 @@
         <page name='Dia7_Tipos_Anidados'/>
         <page name='Dia7_Extensiones_Protocolos'/>
         <page name='Dia7_Teoria_Swift_ Avanzadas'/>
+        <page name='Dia8_Set_(Conjunttos)'/>
+        <page name='Dia8_Algoritmos_de_Colecciones'/>
+        <page name='Dia8_ Map_(Mapeo)'/>
+        <page name='Dia8_For_Each_(Iteneracion)'/>
+        <page name='Dia8_Otras_Operaciones_Con_Colecciones'/>
     </pages>
 </playground>
